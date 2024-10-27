@@ -1,0 +1,21 @@
+.tooltip-inner {
+    white-space: pre-line;
+}
+
+body .daterangepicker.show-ranges.ltr .ranges ul,
+body .daterangepicker.show-ranges.rtl .ranges ul {
+    flex-direction: column !important;
+}
+
+.user-icon {
+    width: 30px;
+    height: 30px;
+    margin-top: -5px;
+    margin-bottom: -5px;
+    margin-right: 10px;
+    border-radius: 30px;
+    border-radius: 30px;
+    border: 1px solid black;
+    font-weight: 700;
+    background-color: #b6c2c9;
+}
