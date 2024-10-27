@@ -1,0 +1,30 @@
+/* Add here all your css styles (customizations) */
+
+.g-color-whatsapp--hover:hover {
+    background-color: #34af23 !important;
+    color: #fff;
+}
+
+.g-color-whatsapp {
+    color: #34af23;
+}
+
+.g-color-instagram--hover:hover {
+    background-color: #3f729b !important;
+    color: #fff;
+}
+
+.g-color-facebook--hover:hover {
+    background-color: #3b5998 !important;
+    color: #fff;
+}
+
+.g-color-youtube--hover:hover {
+    background-color: #c4302b !important;
+    color: #fff;
+}
+
+.g-bg-instagram-custom {
+    background: rgb(195, 42, 163);
+    background: linear-gradient(90deg, rgba(195, 42, 163, 1) 0%, rgba(244, 111, 48, 1) 35%, rgba(255, 220, 125, 1) 100%);
+}
