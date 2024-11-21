@@ -19,3 +19,7 @@ body .daterangepicker.show-ranges.rtl .ranges ul {
     font-weight: 700;
     background-color: #b6c2c9;
 }
+
+.panel .panel-heading {
+    flex-wrap: wrap !important;
+}
